@@ -60,7 +60,7 @@
 
 #### ==注意事项==
 
-![1574740925(git使用.assets/1574740925(1).png)](C:/Users/Hotin/Desktop/1574740925(1).png)
+![](git使用.assets/1574740925.png)
 
 - 无法`push`错误
 
