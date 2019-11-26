@@ -54,7 +54,7 @@
 3. 更新本地文件
 
    ```shell
-   git pull 
+   git pull note master
    ```
 
    
