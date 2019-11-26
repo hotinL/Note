@@ -57,5 +57,28 @@
    git pull note master
    ```
 
-   
+
+#### ==注意事项==
+
+![出现无法push错误](Session和Cookie.assets/image-20191126115303877.png)
+
+- 无法`push`错误
+
+  - 服务端文件发生改变,本地文件未改变,发生冲突
+
+  - **解决方法**
+
+    - ```shell
+      # 更新文件
+      git pull note master
+      ```
+
+    - ```shell
+      # 推送文件
+      git push note master
+      ```
+
+      
+
+
 
