@@ -60,7 +60,7 @@
 
 #### ==注意事项==
 
-![出现无法push错误](Session和Cookie.assets/image-20191126115303877.png)
+![1574740925(git使用.assets/1574740925(1).png)](C:/Users/Hotin/Desktop/1574740925(1).png)
 
 - 无法`push`错误
 
@@ -77,8 +77,6 @@
       # 推送文件
       git push note master
       ```
-
-      
 
 
 
